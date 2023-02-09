@@ -243,7 +243,8 @@ textarea {
     border: 1px solid #435926;
     padding: 1rem;
     margin: 1rem;
-    height: 50px;
+    min-height: 50px;
+    max-height: 50px;
     font-family: 'Raleway', sans-serif;
   }
 
@@ -253,7 +254,8 @@ textarea {
     border: 1px solid #435926;
     padding: 1rem;
     margin: 1rem;
-    height: 50px;
+    min-height: 50px;
+    max-height: 50px;
     color: #435926;
     font-family: 'Raleway', sans-serif;
   }
